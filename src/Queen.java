@@ -1,6 +1,4 @@
-/**
- * This file contains the implementations used to solve the trials for the N-Queen problems
- */
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
